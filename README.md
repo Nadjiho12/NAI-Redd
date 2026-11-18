@@ -13,15 +13,16 @@ It's used these components:
 
 ### PCB
 
-<img width="873" height="851" alt="Screenshot 2026-11-18 125115" src="https://github.com/user-attachments/assets/735fbf58-7455-489b-9161-7e569f9233a1" />
+<img width="850" height="855" alt="Screenshot 2026-11-19 003619" src="https://github.com/user-attachments/assets/dcc15902-f87c-41f8-8376-707d36061a0f" />
 
 #### 2D
 
-<img width="754" height="736" alt="Screenshot 2026-11-18 125257" src="https://github.com/user-attachments/assets/e7bea438-5fa7-47b5-b416-ecbdf1e15b10" />
+<img width="864" height="868" alt="Screenshot 2026-11-19 003926" src="https://github.com/user-attachments/assets/5a152906-60fa-43b9-a813-343ad4bc0f32" />
 
 #### 3D
 
-<img width="1120" height="916" alt="Screenshot 2026-11-18 125227" src="https://github.com/user-attachments/assets/3b222bf4-a5d1-4c38-b0b7-46fca5660c06" />
+<img width="1323" height="923" alt="Screenshot 2026-11-19 003949" src="https://github.com/user-attachments/assets/fa205aec-4622-4822-9683-62b7aa3ffd30" />
+<img width="808" height="784" alt="Screenshot 2026-11-19 004021" src="https://github.com/user-attachments/assets/311f0aa2-d3ce-4eaa-ac3c-b849e1e77116" />
 
 ### Schematic
 
