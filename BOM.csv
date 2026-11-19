@@ -1,34 +1,34 @@
-No,Qty,Comment,Designator,Supplier Part,Supplier
-1,2,4.7uF,"C1,C2",C2182224,https://jlcpcb.com/partdetail/KEMET-C1210C475K5RACTU/C2182224
-2,4,100nF,"C3,C4,C10,C11",C14663,https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663
-3,1,10nF,C5,C1589,https://jlcpcb.com/partdetail/1941-CL10B103KB8NNNC/C1589
-4,1,620pF,C6,C527998,https://jlcpcb.com/partdetail/546308-GRM1885C1H621JA01D/C527998
-5,1,33pF,C7,C1663,https://jlcpcb.com/partdetail/2015-CL10C330JB8NNNC/C1663
-6,2,47uF,"C8,C9",C96123,https://jlcpcb.com/partdetail/97327-CL31A476MPHNNNE/C96123
-7,2,B340A,"D1,D2",C3018525,https://jlcpcb.com/partdetail/FUXINSEMI-B340A/C3018525
-8,1,1206L200/24NR,F1,C42396578,https://jlcpcb.com/partdetail/LUTE-1206L20024NR/C42396578
-9,1,XT60PW-F,J1,C428722,https://jlcpcb.com/partdetail/Changzhou_AmassElec-XT60PWF/C428722
-10,2,KH-2.54FH-1X7P-H8.5,"J2,J3",C2932672,https://jlcpcb.com/partdetail/3278193-KH_2_54FH_1X7P_H85/C2932672
-11,3,KH-2.54PH180-1X4P-L11.5,"J4,J5,J6",C2905435,https://jlcpcb.com/partdetail/3175223-KH_2_54PH180_1X4P_L115/C2905435
-12,1,KH-2.54PH180-1X5P-L11.5,J7,C2932699,https://jlcpcb.com/partdetail/3278220-KH_2_54PH180_1X5P_L115/C2932699
-13,1,6.8uH,L1,C357230,https://jlcpcb.com/partdetail/TAITECH-TMPC0624H_6R8MGD/C357230
-14,1,332kΩ,R1,C3994408,https://jlcpcb.com/partdetail/SEI_Stackpole_Elec-RMCF0603FT332K/C3994408
-15,1,68kΩ,R2,C2907063,https://jlcpcb.com/partdetail/FOJAN-FRC0603F6802TS/C2907063
-16,1,44.2kΩ,R3,C317170,https://jlcpcb.com/partdetail/KOA_SpeerElec-RK73H1JTTD4422F/C317170
-17,5,10kΩ,"R4,R6,R7,R8,R9",C25804,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804
-18,1,1.8kΩ,R5a,C4177,https://jlcpcb.com/partdetail/4584-0603WAF1801T5E/C4177
-19,1,110Ω,R5b,C365068,https://jlcpcb.com/partdetail/RESI-HPCR0603F110RK9/C365068
-20,2,4.7kΩ,"R10,R11",C23162,https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162
-21,1,TPS54331DR,U1,C9865,https://jlcpcb.com/partdetail/TexasInstruments-TPS54331DR/C9865
-22,1,XIAO ESP32-S3 Sense,"U2 (socketed J2,J3)",C20343893,https://jlcpcb.com/partdetail/Seeed-113991115/C20343893
-23,1,GY-521 (MPU6050) IMU module,"off-board, J4-J6",,https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version
-24,1,BMP280 barometer breakout,"off-board, J4-J6",,https://www.adafruit.com/product/2651
-25,1,VL53L3CX ToF breakout,"off-board, J4-J6",SEN0378,https://www.dfrobot.com/product-2256.html
-26,4,EMAX ECO II 2004 3000KV,M1-M4,0101096027,https://www.racedayquads.com/products/emax-eco-ii-2004-3000kv-motor
-27,1,Axisflying 30A 4-in-1 ESC,ESC1,,https://www.getfpv.com/axisflying-30a-2-6s-blheli-s-4-in-1-esc-mini-20x20.html
-28,1,GEPRC Storm 4S 1300mAh LiPo,BAT1,GEP13004S120A,https://geprc.com/product/geprc-storm-4s-1300mah-120c-lipo-battery/
-29,2,Gemfan Hurricane 3520-3 props (4 pcs),props,G24237CN1Z,https://www.getfpv.com/gemfan-hurricane-3520-durable-3-blade-propeller-set-of-4.html
-30,1,XT60 male pigtail / Y-splitter (ESC power tap),,,https://store.flitetest.com/male-xt-60-pigtail-14awg/
-31,1,"136 mm frame, 3D printed (filament)",,,own printer
-32,1,"M2/M3 screws, nuts, standoffs, grommets",,,https://www.sunfounder.com/products/nylon-screws-kit
-33,1,"Dupont / header wires (ESC S1-S4 to J7, sensors to J4-J6)",,,https://www.icrimptools.com/products/iwiss-1550pcs-2-54mm-pitch-wire-to-wire-dupont-connector-kit-includes-pin-headers-jumper-wire-crimp-pins-for-rc-servo-arduino-smt-sata-eps-pcie-battery-balancer
+No,Qty,Comment,Designator,Supplier Part,Supplier URL,Unit Price USD,Ext Price USD
+1,2,4.7uF,"C1,C2",C2182224,https://jlcpcb.com/partdetail/KEMET-C1210C475K5RACTU/C2182224,0.61,1.22
+2,4,100nF,"C3,C4,C10,C11",C14663,https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663,0.01,0.04
+3,1,10nF,C5,C1589,https://jlcpcb.com/partdetail/1941-CL10B103KB8NNNC/C1589,0.01,0.01
+4,1,620pF,C6,C527998,https://jlcpcb.com/partdetail/546308-GRM1885C1H621JA01D/C527998,0.01,0.01
+5,1,33pF,C7,C1663,https://jlcpcb.com/partdetail/2015-CL10C330JB8NNNC/C1663,0.01,0.01
+6,2,47uF,"C8,C9",C96123,https://jlcpcb.com/partdetail/97327-CL31A476MPHNNNE/C96123,0.16,0.32
+7,2,B340A,"D1,D2",C3018525,https://jlcpcb.com/partdetail/FUXINSEMI-B340A/C3018525,0.03,0.06
+8,1,1206L200/24NR,F1,C42396578,https://jlcpcb.com/partdetail/LUTE-1206L20024NR/C42396578,0.15,0.15
+9,1,XT60PW-F,J1,C428722,https://jlcpcb.com/partdetail/Changzhou_AmassElec-XT60PWF/C428722,0.65,0.65
+10,2,KH-2.54FH-1X7P-H8.5,"J2,J3",C2932672,https://jlcpcb.com/partdetail/3278193-KH_2_54FH_1X7P_H85/C2932672,0.12,0.24
+11,3,KH-2.54PH180-1X4P-L11.5,"J4,J5,J6",C2905435,https://jlcpcb.com/partdetail/3175223-KH_2_54PH180_1X4P_L115/C2905435,0.03,0.09
+12,1,KH-2.54PH180-1X5P-L11.5,J7,C2932699,https://jlcpcb.com/partdetail/3278220-KH_2_54PH180_1X5P_L115/C2932699,0.04,0.04
+13,1,6.8uH,L1,C357230,https://jlcpcb.com/partdetail/TAITECH-TMPC0624H_6R8MGD/C357230,0.22,0.22
+14,1,332kΩ,R1,C3994408,https://jlcpcb.com/partdetail/SEI_Stackpole_Elec-RMCF0603FT332K/C3994408,0.01,0.01
+15,1,68kΩ,R2,C2907063,https://jlcpcb.com/partdetail/FOJAN-FRC0603F6802TS/C2907063,0.01,0.01
+16,1,44.2kΩ,R3,C317170,https://jlcpcb.com/partdetail/KOA_SpeerElec-RK73H1JTTD4422F/C317170,0.01,0.01
+17,5,10kΩ,"R4,R6,R7,R8,R9",C25804,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804,0.01,0.05
+18,1,1.8kΩ,R5a,C4177,https://jlcpcb.com/partdetail/4584-0603WAF1801T5E/C4177,0.01,0.01
+19,1,110Ω,R5b,C365068,https://jlcpcb.com/partdetail/RESI-HPCR0603F110RK9/C365068,0.01,0.01
+20,2,4.7kΩ,"R10,R11",C23162,https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162,0.01,0.02
+21,1,TPS54331DR,U1,C9865,https://jlcpcb.com/partdetail/TexasInstruments-TPS54331DR/C9865,0.29,0.29
+22,1,XIAO ESP32-S3 Sense,"U2 (socketed J2,J3)",C20343893,https://jlcpcb.com/partdetail/Seeed-113991115/C20343893,19.81,19.81
+23,1,GY-521 (MPU6050) IMU module,"off-board, J4-J6",,https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version,6.00,6.00
+24,1,BMP280 barometer breakout,"off-board, J4-J6",,https://www.adafruit.com/product/2651,9.95,9.95
+25,1,VL53L3CX ToF breakout,"off-board, J4-J6",SEN0378,https://www.dfrobot.com/product-2256.html,8.90,8.90
+26,4,EMAX ECO II 2004 3000KV,M1-M4,0101096027,https://www.racedayquads.com/products/emax-eco-ii-2004-3000kv-motor,16.49,65.96
+27,1,Axisflying 30A 4-in-1 ESC,ESC1,,https://www.getfpv.com/axisflying-30a-2-6s-blheli-s-4-in-1-esc-mini-20x20.html,40.00,40.00
+28,1,GEPRC Storm 4S 1300mAh LiPo,BAT1,GEP13004S120A,https://geprc.com/product/geprc-storm-4s-1300mah-120c-lipo-battery/,27.00,27.00
+29,2,Gemfan Hurricane 3520-3 props (4 pcs),props,G24237CN1Z,https://www.getfpv.com/gemfan-hurricane-3520-durable-3-blade-propeller-set-of-4.html,4.00,8.00
+30,1,XT60 male pigtail / Y-splitter (ESC power tap),,,https://store.flitetest.com/male-xt-60-pigtail-14awg/,0.50,0.50
+32,1,M2/M3 screws, nuts, standoffs, grommets,,,https://www.sunfounder.com/products/nylon-screws-kit,5.00,5.00
+33,1,"Dupont / header wires (ESC S1-S4 to J7, sensors to J4-J6)",,,https://www.icrimptools.com/products/iwiss-1550pcs-2-54mm-pitch-wire-to-wire-dupont-connector-kit-includes-pin-headers-jumper-wire-crimp-pins-for-rc-servo-arduino-smt-sata-eps-pcie-battery-balancer,8.00,8.00
+,,,,,,TOTAL,202.59
