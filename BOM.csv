@@ -29,6 +29,6 @@ No,Qty,Comment,Designator,Supplier Part,Supplier URL,Unit Price USD,Ext Price US
 28,1,GEPRC Storm 4S 1300mAh LiPo,BAT1,GEP13004S120A,https://geprc.com/product/geprc-storm-4s-1300mah-120c-lipo-battery/,27.00,27.00
 29,2,Gemfan Hurricane 3520-3 props (4 pcs),props,G24237CN1Z,https://www.getfpv.com/gemfan-hurricane-3520-durable-3-blade-propeller-set-of-4.html,4.00,8.00
 30,1,XT60 male pigtail / Y-splitter (ESC power tap),,,https://store.flitetest.com/male-xt-60-pigtail-14awg/,0.50,0.50
-32,1,M2/M3 screws, nuts, standoffs, grommets,,,https://www.sunfounder.com/products/nylon-screws-kit,5.00,5.00
+32,1,M2/M3 screws,,,https://www.sunfounder.com/products/nylon-screws-kit,5.00,5.00
 33,1,"Dupont / header wires (ESC S1-S4 to J7, sensors to J4-J6)",,,https://www.icrimptools.com/products/iwiss-1550pcs-2-54mm-pitch-wire-to-wire-dupont-connector-kit-includes-pin-headers-jumper-wire-crimp-pins-for-rc-servo-arduino-smt-sata-eps-pcie-battery-balancer,8.00,8.00
 ,,,,,,TOTAL,202.59
